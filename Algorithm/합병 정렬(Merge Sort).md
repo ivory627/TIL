@@ -33,8 +33,8 @@
 
 - merge 코드
 
-  정렬되어 있는 두 배열 arr[left~mid]와 arr[mid+1~right]을 합하여
-  정렬된 하나의 배열 arr[left~right]을 만든다.
+  정렬되어 있는 두 배열 arr[left..mid]와 arr[mid+1..right]을 합하여
+  정렬된 하나의 배열 arr[left..right]을 만든다.
 
   ```java
   public void merge(int arr[], int left, int mid, int right){
