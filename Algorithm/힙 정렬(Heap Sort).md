@@ -23,7 +23,7 @@
 
     - A[i]의 오른쪽 자식 = A[2i+1]
 
-    - ![image-20200408032916481](C:\Users\박상아\AppData\Roaming\Typora\typora-user-images\image-20200408032916481.png)
+    - ![image-20200408032916481](https://user-images.githubusercontent.com/58761162/79071408-8efe3b80-7d16-11ea-9b44-bba86b4a996e.png)
 
       
 
@@ -31,7 +31,7 @@
 
 - complete binary tree란?
 
-  - ![image-20200408031655023](C:\Users\박상아\AppData\Roaming\Typora\typora-user-images\image-20200408031655023.png)
+  - ![image-20200408031655023](https://user-images.githubusercontent.com/58761162/79071430-afc69100-7d16-11ea-8dab-cc22bf0da9cf.png)
   - tree란 위 그림처럼 계층적 구조를 나타내는 것이다.
   - 위에서부터 아래까지 차례로 레벨 1, 레벨 2, 레벨 3, 레벨 4 이다.
   - 위와 아래에 두 개의 노드에 대해서 위의 노드가 부모, 아래 노드가 자식이라 한다.
@@ -43,7 +43,7 @@
 
 - heap property란?
 
-  - ![image-20200408031106389](C:\Users\박상아\AppData\Roaming\Typora\typora-user-images\image-20200408031106389.png)
+  - ![image-20200408031106389](https://user-images.githubusercontent.com/58761162/79071446-c1a83400-7d16-11ea-957f-30b1128f58b9.png)
 
   - max heap property : 부모는 자식보다 크거나 같다
 
@@ -63,7 +63,7 @@ EX ) 유일하게 루트만이 heap property를 만족하지 않을 때
   - 트리의 전체 모양은 complete binary tree 이다.
   - 왼쪽, 오른쪽 서브트리는 그 자체로 heap이다.
 
-![image-20200408033613054](C:\Users\박상아\AppData\Roaming\Typora\typora-user-images\image-20200408033613054.png)
+![image-20200408033613054](https://user-images.githubusercontent.com/58761162/79071458-ccfb5f80-7d16-11ea-81db-37e8171d68ba.png)
 
 
 
