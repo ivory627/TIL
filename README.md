@@ -7,5 +7,6 @@
   - [선택,버블,삽입정렬](https://github.com/ivory627/TIL/blob/master/Algorithm/%EC%A0%95%EB%A0%AC(Sort)%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5B%EC%84%A0%ED%83%9D%2C%EB%B2%84%EB%B8%94%2C%EC%82%BD%EC%9E%85%5D.md)
   - [합병 정렬](https://github.com/ivory627/TIL/blob/master/Algorithm/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC(Merge%20Sort).md)
   - [퀵 정렬](https://github.com/ivory627/TIL/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).md)
+  - [힙 정렬](https://github.com/ivory627/TIL/blob/master/Algorithm/%ED%9E%99%20%EC%A0%95%EB%A0%AC(Heap%20Sort).md)
 
 ###### 출처 : [인프런 권오흠님의 알고리즘강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C#curriculum)
