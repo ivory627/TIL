@@ -14,3 +14,5 @@
   - [레드 블랙 트리](https://github.com/ivory627/TIL/blob/master/Algorithm/%EB%A0%88%EB%93%9C%20%EB%B8%94%EB%9E%99%20%ED%8A%B8%EB%A6%AC.md)
 
 ###### 출처 : [인프런 권오흠님의 알고리즘강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C#curriculum)
+
+### :bulb: Tech Interview  [Link](https://github.com/ivory627/TIL/blob/master/TechInterview/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84.md)
