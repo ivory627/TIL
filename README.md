@@ -16,6 +16,14 @@
 - [해슁](https://github.com/ivory627/TIL/blob/master/Algorithm/Hashing.md)
 - [그리디 알고리즘](https://github.com/ivory627/TIL/blob/master/Algorithm/Greedy.md)
 
+### :bulb: Data structure
+- [스택/큐](https://github.com/ivory627/TIL/blob/master/Algorithm/Stack_Queue.md)
+
+
+
+
+
 ###### 출처 : [인프런 권오흠님의 알고리즘강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C#curriculum)
+###### 출처 : [안경잡이 개발자 블로그](https://m.blog.naver.com/PostList.nhn?blogId=ndb796)
 
 ### :bulb: Tech Interview  [Link](https://github.com/ivory627/TIL/blob/master/TechInterview/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84.md)
