@@ -24,6 +24,3 @@
 
 - [Nodejs다운로드](https://nodejs.org) : LTS 버전으로 기본설정값 그대로 설치
 - 이클립스에서 Nodeclipse 플러그인 설치
-
-<br/>
-
