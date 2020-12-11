@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="save_guestbook" method="post">
+		<textarea name="content" style="width:300px; height:50px;"></textarea>
+		<br/>
+		<button type="submit">저장</button>
+	</form>
+	
+	<% for(var obj of rows){ %>
+	작성자 : <%= obj.guestbook_name %><br/>
+	내용 : <%= obj.guestbook_content %><br/>
+	<hr/>
+	<% } %>
+	
+</body>
+</html>
